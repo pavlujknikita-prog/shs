@@ -18,3 +18,4 @@ vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@31.56.188.83:443?type=tcp&security=
 vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@185.242.19.9:443?type=xhttp&security=tls&sni=top2122203944.mwscdn.ru&host=top2122203944.mwscdn.ru&path=%2Fuserconnect-65fd&mode=auto&fp=firefox&alpn=h2,http%2F1.1#🇺🇸_США_XHTTP_LTE
 vless://81adcac1-1639-4bdb-847e-bf3d28748a90@45.9.15.251:443?encryption=none&security=reality&sni=s3node1.tcpdoor.net&fp=firefox&pbk=Z7qwdFWPYbNhjF7SDxtioSjffMXiQiLnCEj-VW_9VkU&sid=c4403752&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=grpc#🇷🇺_PRO_Россия_YouTube
 vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@144.31.94.167:8443?type=ws&security=tls&sni=hyst-aust.astra-vpn.net&host=hyst-aust.astra-vpn.net&path=%2Fws&fp=qq&alpn=http%2F1.1#🇨🇭_Швейцария_WS
+vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@usa-ws.astra-vpn.net:8443?type=ws&security=tls&sni=usa-ws.astra-vpn.net&host=usa-ws.astra-vpn.net&path=%2Fws&fp=chrome&alpn=http%2F1.1#🇺🇸_США_WS_FAST
