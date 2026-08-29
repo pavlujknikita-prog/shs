@@ -5,18 +5,11 @@
 #support-url: https://t.me/pika_mangu
 #profile-web-page-url: https://t.me/pika_mangu
 #announce:до 12.08.2026 РАБОТА В УСЛОВИЯХ ОГРАНИЧЕНИЙ МОБИЛЬНОГО ИНТЕРНЕТА НЕ ГАРАНТИРОВАНА.sosal?
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@46.8.210.182:8443?type=tcp&security=reality&sni=my.selectel.ru&pbk=LMD1-fUUPusE9p9k72bnp8url_S1H-DVgMH-mBUIXRE&sid=3df01b09&fp=qq&flow=xtls-rprx-vision#🇺🇸_Обход_LTE
-hysteria2://b35c120d-d60f-44f0-b6f6-8f85879336ba@de-hyst.astra-vpn.com:443?security=tls&sni=de-hyst.astra-vpn.com&alpn=h3#🇩🇪_Германия_Hysteria2
-vless://81adcac1-1639-4bdb-847e-bf3d28748a90@zde96.tcpdoor.net:443?encryption=none&security=reality&sni=media2.tcpdoor.net&fp=firefox&pbk=AFcLwlXQXNEtUjWokaNw6AKTXoWdXjbmTw71Yay3phw&sid=5588d860&spx=%2F&type=tcp&headerType=none#%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B9
-vless://81adcac1-1639-4bdb-847e-bf3d28748a90@176.57.218.213:7443?encryption=none&security=reality&sni=www.samsung.com&fp=firefox&pbk=7RhCInNPXLq0Pv3D0pqgIM-w56rJEtBjb1sq5Y4jIBE&sid=acff2275&spx=%2F&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AAPRO%20%E2%9D%AF%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%2349
-hysteria2://b35c120d-d60f-44f0-b6f6-8f85879336ba@hyst-fr.astra-vpn.com:443?security=tls&sni=hyst-fr.astra-vpn.com&alpn=h3#🇫🇷_Франция_Hysteria2
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@usa-ws.astra-vpn.net:8443?type=ws&security=tls&sni=usa-ws.astra-vpn.net&host=usa-ws.astra-vpn.net&path=%2Fws&fp=chrome#🇺🇸_США_WS
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@144.31.94.107:8443?type=ws&security=tls&sni=hyst-aust.astra-vpn.net&host=hyst-aust.astra-vpn.net&path=%2Fws&fp=qq#🇨🇭_Швейцария_WS
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@gb-ws.astra-vpn.net:8443?type=ws&security=tls&sni=gb-ws.astra-vpn.net&host=gb-ws.astra-vpn.net&path=%2Fws&fp=qq#🇬🇧_Великобритания_WS
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@31.56.184.79:443?type=tcp&security=reality&sni=ebay.com&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9&fp=qq&flow=xtls-rprx-vision#🇳🇱_Нидерланды_Reality
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@31.56.188.83:443?type=tcp&security=reality&sni=deepl.com&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9&fp=firefox&flow=xtls-rprx-vision#🇵🇱_Польша_Reality
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@185.242.19.9:443?type=xhttp&security=tls&sni=top2122203944.mwscdn.ru&host=top2122203944.mwscdn.ru&path=%2Fuserconnect-65fd&mode=auto&fp=firefox&alpn=h2,http%2F1.1#🇺🇸_США_XHTTP_LTE
-vless://81adcac1-1639-4bdb-847e-bf3d28748a90@45.9.15.251:443?encryption=none&security=reality&sni=s3node1.tcpdoor.net&fp=firefox&pbk=Z7qwdFWPYbNhjF7SDxtioSjffMXiQiLnCEj-VW_9VkU&sid=c4403752&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=grpc#🇷🇺_PRO_Россия_YouTube
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@144.31.94.167:8443?type=ws&security=tls&sni=hyst-aust.astra-vpn.net&host=hyst-aust.astra-vpn.net&path=%2Fws&fp=qq&alpn=http%2F1.1#🇨🇭_Швейцария_WS
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@usa-ws.astra-vpn.net:8443?type=ws&security=tls&sni=usa-ws.astra-vpn.net&host=usa-ws.astra-vpn.net&path=%2Fws&fp=chrome&alpn=http%2F1.1#🇺🇸_США_WS_FAST
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@144.31.94.167:8443?type=ws&security=tls&sni=hyst-aust.astra-vpn.net&host=hyst-aust.astra-vpn.net&path=%2Fws&fp=qq&alpn=http%2F1.1#🇨🇭_Швейцария_WS
+hysteria2://b35c120d-d60f-44f0-b6f6-8f85879336ba@de-hyst.astra-vpn.com:443/?sni=de-hyst.astra-vpn.com&alpn=h3#🇩🇪 Германия | Hysteria2
+hysteria2://b35c120d-d60f-44f0-b6f6-8f85879336ba@hyst-fr.astra-vpn.com:443/?sni=hyst-fr.astra-vpn.com&alpn=h3#🇫🇷%20Франция%20%7C%20Hysteria2%20%7C%20FAST%20⭐️
+vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@usa-ws.astra-vpn.net:8443?encryption=none&security=tls&type=ws&host=usa-ws.astra-vpn.net&sni=usa-ws.astra-vpn.net&alpn=http%2F1.1&fp=chrome&path=%2Fws#🇺🇸%20США%20%7C%20WebSocket%20%7C%20FAST
+vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@gb-ws.astra-vpn.net:8443?encryption=none&security=tls&type=ws&host=gb-ws.astra-vpn.net&sni=gb-ws.astra-vpn.net&alpn=http%2F1.1&fp=qq&path=%2Fws#🇬🇧%20Великобритания%20%7C%20WebSocket⭐️
+vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@31.56.184.79:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ebay.com&fp=qq&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9#🇳🇱%20Нидерланды
+vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@46.8.210.182:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=my.selectel.ru&fp=qq&pbk=LMD1-fUUPusE9p9k72bnp8url_S1H-DVgMH-mBUIXRE&sid=3df01b09#🇺🇸%20Обход%20%7C%20LTE
+hysteria2://b35c120d-d60f-44f0-b6f6-8f85879336ba@lta.astra-vpn.net:8443/?sni=lta.astra-vpn.net&alpn=h3#🇱🇻%20Латвия%20%7C%20Hysteria2%20%7C%20FAST%20⭐️
+vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@31.56.184.79:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ebay.com&fp=qq&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9#🇳🇱%20Нидерланды
