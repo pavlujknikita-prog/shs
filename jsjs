@@ -13,3 +13,4 @@ vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@31.56.184.79:443?encryption=none&fl
 vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@46.8.210.182:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=my.selectel.ru&fp=qq&pbk=LMD1-fUUPusE9p9k72bnp8url_S1H-DVgMH-mBUIXRE&sid=3df01b09#🇺🇸%20США%20%7C%20Обход%20LTE
 hysteria2://b35c120d-d60f-44f0-b6f6-8f85879336ba@lta.astra-vpn.net:8443/?sni=lta.astra-vpn.net&alpn=h3#🇱🇻%20Латвия%20%7C%20Hysteria
 vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@31.56.184.79:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ebay.com&fp=qq&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9#🇳🇱%20Нидерланды%20%7C%20VLESS%20Reality
+vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@ws-aust.astra-vpn.net:8443?encryption=none&security=tls&type=ws&host=ws-aust.astra-vpn.net&sni=ws-aust.astra-vpn.net&alpn=http%2F1.1&fp=chrome&path=%2Fws#🇲🇨%20Монако%20%7C%20WebSocket
