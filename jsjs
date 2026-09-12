@@ -5,11 +5,11 @@
 #support-url: https://t.me/pika_mangu
 #profile-web-page-url: https://t.me/pika_mangu
 #announce:до 19.10.2026 РАБОТА В УСЛОВИЯХ ОГРАНИЧЕНИЙ МОБИЛЬНОГО ИНТЕРНЕТА НЕ ГАРАНТИРОВАНА.sosal?
-hysteria2://b35c120d-d60f-44f0-b6f6-8f85879336ba@de-hyst.astra-vpn.com:443?sni=de-hyst.astra-vpn.com&alpn=h3&fp=firefox&fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22bbr%22%2C%22debug%22%3Afalse%7D%7D#🇩🇪%20Германия%20%7C%20Hysteria2⭐
+hysteria2://b35c120d-d60f-44f0-b6f6-8f85879336ba@de-hyst.astra-vpn.com:443?sni=de-hyst.astra-vpn.com&alpn=h3&fp=firefox&fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22bbr%22%2C%22debug%22%3Afalse%7D%7D#🇩🇪%20Германия⭐%20%7C%20Hysteria2⭐
 vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@est.v2speed.digital:8443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=est.v2speed.digital&fp=firefox&pbk=E7yfHKQH2_Irf1g_Rs8O9nTelMh_yuzktyPSjDWKx2Q&sid=cf0ae82cbf9bb0ae#🇪🇪%20Эстония
 hysteria2://b35c120d-d60f-44f0-b6f6-8f85879336ba@lta.astra-vpn.net:8443?sni=lta.astra-vpn.net&alpn=h3&fp=chrome&fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22bbr%22%2C%22debug%22%3Afalse%7D%7D#🇱🇻%20Латвия%20%7C%20Hysteria2%20%7C%20FAST%20⭐
 hysteria2://b35c120d-d60f-44f0-b6f6-8f85879336ba@connect.v2speed.digital:443?sni=connect.v2speed.digital&alpn=h3&fp=chrome&fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22bbr%22%2C%22debug%22%3Afalse%7D%7D#🇫🇷%20Франция%20%7C%20Hysteria2%20%7C%20FAST%20⭐
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@146.19.254.175:8443?encryption=none&security=reality&sni=cdnnl.israelcdnmedia.info&fp=firefox&pbk=Uw1DojizOEJpHwUpE18GqRyVT3l4UJprLZoCaNB85ys&sid=eed9e0d50082e812&type=tcp&flow=xtls-rprx-vision#🇳🇱%20Нидерланды%20%7C%20Gemini⭐
+vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@146.19.254.175:8443?encryption=none&security=reality&sni=cdnnl.israelcdnmedia.info&fp=firefox&pbk=Uw1DojizOEJpHwUpE18GqRyVT3l4UJprLZoCaNB85ys&sid=eed9e0d50082e812&type=tcp&flow=xtls-rprx-vision#🇳🇱%20Нидерланды⭐%20%7C%20Gemini⭐
 vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@usa-ws.astra-vpn.net:8443?encryption=none&security=tls&sni=usa-ws.astra-vpn.net&fp=chrome&type=ws&host=usa-ws.astra-vpn.net&path=%2Fws#🇺🇸%20США%20%7C%20WebSocket%20%7C%20FAST
 vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@ws-aust.astra-vpn.net:8443?encryption=none&security=tls&sni=ws-aust.astra-vpn.net&fp=chrome&type=ws&host=ws-aust.astra-vpn.net&path=%2Fws#🇲🇨%20Монако%20%7C%20WebSocket
 vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@gb-ws.astra-vpn.net:8443?encryption=none&security=tls&sni=gb-ws.astra-vpn.net&fp=qq&type=ws&host=gb-ws.astra-vpn.net&path=%2Fws#🇬🇧%20Великобритания%20%7C%20WebSocket%20⭐
