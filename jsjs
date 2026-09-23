@@ -5,11 +5,6 @@
 #support-url: https://t.me/pika_mangu
 #profile-web-page-url: https://t.me/pika_mangu
 #announce:до 19.10.2026 РАБОТА В УСЛОВИЯХ ОГРАНИЧЕНИЙ МОБИЛЬНОГО ИНТЕРНЕТА НЕ ГАРАНТИРОВАНА.sosal?
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@neth1-node.astra-vpn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=ebay.com&fp=qq&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9#🇳🇱НидерландыTCP
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@ger1-node.astra-vpn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=yandex.ru&fp=firefox&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9#🇩🇪ГерманияTCP
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@cz1-node.astra-vpn.com:443?encryption=none&security=reality&type=tcp&sni=yandex.ru&fp=chrome&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9#🇨🇿ЧехияTCP
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@aust1-node.astra-vpn.com:443?encryption=none&security=reality&type=tcp&sni=yandex.ru&fp=firefox&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9#🇦🇹АвстрияTCP
-vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@usa1-node.astra-vpn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=yandex.ru&fp=firefox&pbk=rvMO95VjOZPm1QXBRj9OPICizBeOKZeqDO6KjqU1Vzw&sid=06bf5b24acb9#🇺🇸СШАTCP
 hysteria2://b35c120d-d60f-44f0-b6f6-8f85879336ba@connect.v2speed.digital:443?sni=connect.v2speed.digital&alpn=h3&fp=chrome&fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22bbr%22%2C%22debug%22%3Afalse%7D%7D#🇫🇷Франция-HysteriaFAST⭐
 vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@gb-ws.astra-vpn.com:8443?encryption=none&security=tls&sni=gb-ws.astra-vpn.com&fp=qq&type=ws&host=gb-ws.astra-vpn.com&path=%2Fws#🇬🇧Великобритания-WebSocket⭐
 vless://b35c120d-d60f-44f0-b6f6-8f85879336ba@usa-ws.astra-vpn.net:8443?encryption=none&security=tls&sni=usa-ws.astra-vpn.net&fp=chrome&type=ws&host=usa-ws.astra-vpn.net&path=%2Fws#🇺🇸СШАWebSocketFAST
